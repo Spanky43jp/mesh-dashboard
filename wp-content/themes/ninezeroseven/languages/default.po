@@ -1,0 +1,1888 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NineZeroSeven\n"
+"POT-Creation-Date: 2015-10-08 02:00-0900\n"
+"PO-Revision-Date: 2015-10-08 02:00-0900\n"
+"Last-Translator: \n"
+"Language-Team: Webcreations907\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:12 ../archive.php:12 ../author.php:14 ../category.php:11
+#: ../page.php:14 ../search.php:12 ../single-full.php:14 ../single-left.php:14
+#: ../single.php:14 ../template-left-sidebar.php:12
+#: ../template-right-sidebar.php:12
+msgid "You Are Viewing"
+msgstr ""
+
+#: ../404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:22
+msgid "We Tried"
+msgstr ""
+
+#: ../404.php:26
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:32 ../no-results.php:36 ../no-results.php:66
+#: ../no-results.php:74 ../no-results.php:78
+msgid "Search"
+msgstr ""
+
+#: ../archive.php:16
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../archive.php:19
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:22
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:25
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:28 ../sidebar.php:48
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:51 ../author.php:32 ../category.php:29 ../search.php:32
+#: ../single-full.php:28 ../single-left.php:30 ../single.php:28
+#: ../assets/php/blog-front-full.php:53 ../assets/php/blog-front-left.php:55
+#: ../assets/php/blog-front.php:55
+msgid "By"
+msgstr ""
+
+#: ../archive.php:52 ../author.php:33 ../category.php:30 ../search.php:33
+#: ../single-full.php:29 ../single-left.php:31 ../single.php:29
+#: ../assets/php/blog-front-full.php:54 ../assets/php/blog-front-left.php:56
+#: ../assets/php/blog-front.php:56
+msgid "In"
+msgstr ""
+
+#: ../archive.php:53 ../author.php:34 ../category.php:31 ../comments.php:17
+#: ../search.php:34 ../single-full.php:30 ../single-left.php:32
+#: ../single.php:30 ../assets/php/blog-front-full.php:55
+#: ../assets/php/blog-front-left.php:57 ../assets/php/blog-front.php:57
+msgid "No Comments"
+msgstr ""
+
+#: ../archive.php:53 ../author.php:34 ../category.php:31 ../comments.php:17
+#: ../search.php:34 ../single-full.php:30 ../single-left.php:32
+#: ../single.php:30 ../assets/php/blog-front-full.php:55
+#: ../assets/php/blog-front-left.php:57 ../assets/php/blog-front.php:57
+msgid "1 Comment"
+msgstr ""
+
+#: ../archive.php:53 ../author.php:34 ../category.php:31 ../comments.php:17
+#: ../search.php:34 ../single-full.php:30 ../single-left.php:32
+#: ../single.php:30 ../assets/php/blog-front-full.php:55
+#: ../assets/php/blog-front-left.php:57 ../assets/php/blog-front.php:57
+msgid "% Comments"
+msgstr ""
+
+#: ../archive.php:67 ../author.php:48 ../category.php:45 ../search.php:48
+#: ../assets/php/blog-front-full.php:75 ../assets/php/blog-front-left.php:77
+#: ../assets/php/blog-front.php:77
+msgid "Read More &raquo;"
+msgstr ""
+
+#: ../archive.php:80 ../category.php:58
+msgid "&laquo; Older Posts "
+msgstr ""
+
+#: ../archive.php:86 ../category.php:64 ../assets/php/blog-front-full.php:97
+#: ../assets/php/blog-front-left.php:99 ../assets/php/blog-front.php:99
+msgid "Newer Posts &raquo;"
+msgstr ""
+
+#: ../author.php:15
+#, php-format
+msgid "Post By: %s"
+msgstr ""
+
+#: ../author.php:61
+#, php-format
+msgid "&laquo; Older Posts By %s"
+msgstr ""
+
+#: ../author.php:67
+#, php-format
+msgid "Newer Posts By %s &raquo;"
+msgstr ""
+
+#: ../category.php:12
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../footer.php:10
+msgid "All Right Reserved"
+msgstr ""
+
+#: ../footer.php:18
+msgid "Top"
+msgstr ""
+
+#: ../functions.php:373 ../search.php:13
+#, php-format
+msgid "Search Results For: %s"
+msgstr ""
+
+#: ../functions.php:377
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../functions.php:454
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:470 ../admin/zilla-shortcodes/tinymce/config.php:355
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:651
+msgid "Message sent."
+msgstr ""
+
+#: ../functions.php:651
+msgid "We will reply as soon as possible."
+msgstr ""
+
+#: ../functions.php:655
+msgid "There was a problem, please try again."
+msgstr ""
+
+#: ../functions.php:660
+msgid "Setup not completed."
+msgstr ""
+
+#: ../functions.php:790 ../assets/php/shortcodes.php:666
+msgid "Twitter"
+msgstr ""
+
+#: ../functions.php:794 ../assets/php/shortcodes.php:670
+msgid "Facebook"
+msgstr ""
+
+#: ../functions.php:797 ../assets/php/shortcodes.php:673
+msgid "Google"
+msgstr ""
+
+#: ../functions.php:800 ../assets/php/custom-widgets.php:322
+#: ../assets/php/shortcodes.php:676
+msgid "Flickr"
+msgstr ""
+
+#: ../functions.php:803 ../assets/php/shortcodes.php:679
+msgid "LinkedIn"
+msgstr ""
+
+#: ../functions.php:806 ../assets/php/shortcodes.php:682
+msgid "Pinterest"
+msgstr ""
+
+#: ../functions.php:809 ../assets/php/shortcodes.php:685
+msgid "Dribbble"
+msgstr ""
+
+#: ../functions.php:812 ../assets/php/shortcodes.php:688
+msgid "DeviantArt"
+msgstr ""
+
+#: ../functions.php:816 ../assets/php/shortcodes.php:692
+msgid "Youtube"
+msgstr ""
+
+#: ../functions.php:820 ../assets/php/shortcodes.php:696
+msgid "Vimeo"
+msgstr ""
+
+#: ../functions.php:824 ../assets/php/shortcodes.php:700
+msgid "Instagram"
+msgstr ""
+
+#: ../functions.php:828 ../functions.php:879
+#: ../admin/zilla-shortcodes/tinymce/config.php:213
+#: ../assets/php/shortcodes.php:704
+msgid "Email"
+msgstr ""
+
+#: ../functions.php:832 ../assets/php/shortcodes.php:708
+msgid "Soundcloud"
+msgstr ""
+
+#: ../functions.php:836 ../assets/php/shortcodes.php:712
+msgid "Behance"
+msgstr ""
+
+#: ../functions.php:840 ../assets/php/shortcodes.php:716
+msgid "Ustream"
+msgstr ""
+
+#: ../functions.php:844 ../assets/php/shortcodes.php:720
+msgid "rss"
+msgstr ""
+
+#: ../functions.php:877 ../admin/zilla-shortcodes/tinymce/config.php:195
+msgid "Name"
+msgstr ""
+
+#: ../functions.php:881 ../functions.php:1022
+msgid "Website"
+msgstr ""
+
+#: ../functions.php:885
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../functions.php:889
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../functions.php:890
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../functions.php:891
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../functions.php:892
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../functions.php:895
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../functions.php:896
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../functions.php:897
+msgid "Cancel reply"
+msgstr ""
+
+#: ../functions.php:898
+msgid "Post Comment"
+msgstr ""
+
+#: ../functions.php:978
+msgid "Your Comment Awaiting Moderation"
+msgstr ""
+
+#: ../functions.php:1003
+msgid "Comment*"
+msgstr ""
+
+#: ../functions.php:1018
+msgid "Name*"
+msgstr ""
+
+#: ../functions.php:1020
+msgid "Email*"
+msgstr ""
+
+#: ../functions.php:1141
+msgid "Menu"
+msgstr ""
+
+#: ../no-results.php:14
+msgid "Oh Whoops"
+msgstr ""
+
+#: ../no-results.php:15
+msgid "Nothing to Show"
+msgstr ""
+
+#: ../no-results.php:27
+#, php-format
+msgid "Ready to build? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:31 ../no-results.php:73
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../no-results.php:52
+msgid "Nothing Found"
+msgstr ""
+
+#: ../no-results.php:62
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../sidebar.php:22 ../assets/php/post-types.php:124
+#: ../assets/php/post-types.php:175
+msgid "Categories"
+msgstr ""
+
+#: ../sidebar.php:34
+msgid "Meta"
+msgstr ""
+
+#: ../sidebar.php:59
+msgid "Pages"
+msgstr ""
+
+#: ../single-full.php:15 ../single-left.php:15 ../single.php:15
+msgid "A Blog Post"
+msgstr ""
+
+#: ../single-portfolio-full.php:14 ../single-portfolio-left.php:14
+#: ../single-portfolio.php:14 ../admin/zilla-shortcodes/tinymce/config.php:404
+#: ../assets/php/post-types.php:188 ../assets/php/post-types.php:189
+msgid "Portfolio"
+msgstr ""
+
+#: ../single-portfolio-full.php:68 ../single-portfolio-left.php:93
+#: ../single-portfolio.php:68 ../single-recent-works-full.php:68
+#: ../single-recent-works-left.php:94 ../single-recent-works.php:68
+msgid "&laquo; Previous"
+msgstr ""
+
+#: ../single-portfolio-full.php:69 ../single-portfolio-left.php:94
+#: ../single-portfolio.php:69 ../single-recent-works-full.php:69
+#: ../single-recent-works-left.php:95 ../single-recent-works.php:69
+msgid "Next &raquo;"
+msgstr ""
+
+#: ../single-portfolio-left.php:23 ../single-portfolio.php:80
+msgid "Portfolio Details"
+msgstr ""
+
+#: ../single-portfolio-left.php:27 ../single-portfolio.php:84
+#: ../single-recent-works-left.php:27 ../single-recent-works.php:84
+#, php-format
+msgid "<strong>Posted By:</strong> %1s"
+msgstr ""
+
+#: ../single-portfolio-left.php:28 ../single-portfolio.php:85
+#: ../single-recent-works-left.php:28 ../single-recent-works.php:85
+#, php-format
+msgid "<strong>Added:</strong> %1s"
+msgstr ""
+
+#: ../single-portfolio-left.php:32 ../single-portfolio.php:89
+#: ../single-recent-works-left.php:32 ../single-recent-works.php:89
+msgid "<strong>More Info</strong>"
+msgstr ""
+
+#: ../single-recent-works-full.php:14 ../single-recent-works-left.php:14
+#: ../single-recent-works.php:14
+msgid "Project"
+msgstr ""
+
+#: ../single-recent-works-left.php:23 ../single-recent-works.php:80
+msgid "Project Details"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:609
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:38 ../assets/php/meta-boxes.php:7
+msgid "Attach Parallax"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:51
+msgid "Attach Section"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:117
+#: ../assets/php/meta-boxes.php:38
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:76
+msgid "Post Count"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:77
+msgid "Changes the amount of posts shown, use -1 to show all posts."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:81
+#: ../assets/php/post-types.php:125 ../assets/php/post-types.php:176
+msgid "Category"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:82
+#: ../admin/zilla-shortcodes/tinymce/config.php:405
+#: ../admin/zilla-shortcodes/tinymce/config.php:424
+#: ../admin/zilla-shortcodes/tinymce/config.php:442
+msgid "Use dropdown if you want just a single category"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:87
+msgid "Layout"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:88
+msgid "Allows to change the layout to different than theme options."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:100
+msgid "Insert Blog Shortcode"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:113
+msgid "Sub Heading"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:114
+msgid "Add Sub Heading"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:119
+#: ../admin/zilla-shortcodes/tinymce/config.php:314
+#: ../admin/zilla-shortcodes/tinymce/config.php:374
+msgid "Heading"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:120
+msgid "Add Heading"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:125
+msgid "Insert Title Bar"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:139
+msgid "Display Text"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:140
+msgid "Add Text to Display."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:145
+#: ../assets/php/custom-widgets.php:488 ../assets/php/custom-widgets.php:644
+#: ../assets/php/custom-widgets.php:677
+msgid "URL"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:146
+msgid "Add URL here."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:151
+msgid "Insert link shortcode."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:164
+msgid "First Name"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:165
+msgid "And team members first name here."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:170
+msgid "Last Name"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:171
+msgid "And team members last name here."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:176
+msgid "Position"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:177
+msgid "Add team members position/rank here"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:182
+msgid "Insert Member Bar"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:196
+msgid "You can add name here."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:201
+msgid "Phone"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:202
+msgid "Phone number can go here"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:207
+msgid "Address"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:208
+msgid "Enter your address here"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:214
+msgid "Email address here ie: you@yourmail.com"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:219
+msgid "Insert Contact Info"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:233
+msgid "Name Label"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:239
+msgid "Email Label"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:245
+msgid "Message Label"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:251
+msgid "Button Label"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:257
+msgid "Insert Contact Form"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:270
+msgid "Top Padding"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:271
+msgid "Add a number for top padding."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:276
+msgid "Right Padding"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:277
+msgid "Add a number for right padding."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:282
+msgid "Bottom Padding"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:283
+msgid "Add a number for bottom padding."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:288
+msgid "Left Padding"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:289
+msgid "Add a number for left padding."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:294
+msgid "Content"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:295
+msgid "Add content here."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:300
+msgid "Insert Padding Box"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:315
+#: ../admin/zilla-shortcodes/tinymce/config.php:375
+msgid "Enter a heading here."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:319
+#: ../admin/zilla-shortcodes/tinymce/config.php:672
+#: ../admin/zilla-shortcodes/tinymce/config.php:698
+msgid "Font Icon"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:320
+msgid "Used if image path below is empty"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:326
+msgid "Icon Image"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:327
+msgid "Enter Image URL for icon/image."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:332
+#: ../assets/php/meta-boxes.php:797
+msgid "Optional Link"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:333
+msgid "If you'd like to enter a link for icon, enter here"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:338
+msgid "Description"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:339
+msgid "Add a description here."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:344
+msgid "Insert Service"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:356
+msgid "Select sidebar to display"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:362
+msgid "Insert Sidebar"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:379
+msgid "Heading  Tag"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:380
+msgid "Select a heading tag."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:393
+msgid "Insert Heading"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:411
+msgid "Insert Portfolio"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:423
+msgid "Works"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:430
+#: ../admin/zilla-shortcodes/tinymce/config.php:448
+msgid "Insert Works"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:441
+#: ../assets/php/post-types.php:137 ../assets/php/post-types.php:138
+msgid "Team"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:461
+msgid "Video Link"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:462
+msgid "Enter Youtube or Vimeo video link above"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:467
+msgid "Insert Video"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:479
+msgid "Thumb Image"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:480
+msgid "Add thumbnail src"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:485
+msgid "Full Image"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:486
+msgid "Add Image src"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:491
+#: ../admin/zilla-shortcodes/tinymce/config.php:724
+#: ../assets/php/custom-widgets.php:483 ../assets/php/custom-widgets.php:639
+#: ../assets/php/custom-widgets.php:672
+msgid "Alt Text"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:492
+msgid "Add alt text"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:496
+msgid "Align"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:497
+msgid "Select alignment."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:506
+msgid "Insert Light Box Shortcode"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:523
+msgid "Button URL"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:524
+msgid "Add the button's url eg http://example.com"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:528
+msgid "Button Style"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:529
+msgid "Select the button's style, ie the button's colour"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:544
+msgid "Button Target"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:545
+msgid "_self = open in same window. _blank = open in new window"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:554
+msgid "Button's Text"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:555
+msgid "Add the button's text"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:559
+msgid "Insert Button Shortcode"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:573
+msgid "Insert Columns Shortcode"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:581
+msgid "Column Type"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:582
+msgid "Select the type, ie width of the column."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:607
+msgid "Column Content"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:608
+msgid "Add the column content."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:612
+msgid "Add Column"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:626
+msgid "List Icon"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:627
+msgid "List of available list type's"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:637
+msgid "UL List Shortcode"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:646
+#: ../admin/zilla-shortcodes/tinymce/config.php:679
+msgid "Row Content"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:647
+#: ../admin/zilla-shortcodes/tinymce/config.php:680
+msgid "Add row content."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:651
+#: ../admin/zilla-shortcodes/tinymce/config.php:684
+msgid "Add Li/Row"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:664
+msgid "Insert Font Icon Shortcode"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:673
+#: ../admin/zilla-shortcodes/tinymce/config.php:699
+msgid "List of available font icons"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:705
+msgid "Insert Icon"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:715
+msgid "Insert Slider Shortcode"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:725
+msgid "You can add title text here."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:730
+msgid "Slide Image"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:731
+msgid "Add image URL for slider."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:736
+msgid "Large Image"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:737
+msgid "Add large image URL (optional)"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:741
+msgid "Add Another Slide"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:750
+msgid "Plan Name"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:751
+msgid "You can enter a first name for plan here."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:756
+msgid "Sub Name"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:757
+msgid "You can enter a last name for plan here."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:761
+msgid "Featured?"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:762
+msgid "Select rather this plan is featured."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:771
+msgid "Button Link"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:772
+msgid "Enter a link for button here."
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:777
+msgid "Button Text"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:778
+msgid "What would you like button to say?"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:782
+msgid "Pricing Plan Shortcode"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:791
+msgid "Plan Option"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:792
+msgid "Enter plan option info"
+msgstr ""
+
+#: ../admin/zilla-shortcodes/tinymce/config.php:796
+msgid "Add Plan Option"
+msgstr ""
+
+#: ../assets/php/blog-front-full.php:92 ../assets/php/blog-front-left.php:94
+#: ../assets/php/blog-front.php:94
+msgid "&laquo; Older Posts"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:234
+#: ../assets/php/install-plugins.php:88
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:235
+msgid "Install Plugins"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:236
+#: ../assets/php/install-plugins.php:90
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:237
+msgid "Something went wrong."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:250
+#: ../assets/php/install-plugins.php:102
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:251
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:252
+#: ../assets/php/class-tgm-plugin-activation.php:2411
+#: ../assets/php/install-plugins.php:103
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:253
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:254
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:255
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1431
+#: ../assets/php/class-tgm-plugin-activation.php:1635
+msgid "Private Repository"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1435
+#: ../assets/php/class-tgm-plugin-activation.php:1639
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1440
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1443
+msgid "Required"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1443
+msgid "Recommended"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1446
+msgid "Not Installed"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1449
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1452
+msgid "Need Updating"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1660
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</"
+"a>"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1676
+msgid "Plugin"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1677
+msgid "Source"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1678
+msgid "Type"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1679
+msgid "Status"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1697
+msgid "Install"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1698
+msgid "Activate"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1699
+msgid "Update"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:1940
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2393
+msgid "Install package not available."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2394
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2395
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2396
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2397
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2398
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2399
+msgid "Failed to remove old plugin directory"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2410
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2536
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2537
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2541
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2542
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2543
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2544
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2548
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2550
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../assets/php/class-tgm-plugin-activation.php:2551
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:26
+msgid "Show list of recent comments with avatars."
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:40
+msgid "Recent Comments"
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:53 ../assets/php/custom-widgets.php:177
+#: ../assets/php/custom-widgets.php:336 ../assets/php/custom-widgets.php:478
+#: ../assets/php/custom-widgets.php:619
+msgid "Title:"
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:58
+msgid "Show Number of Comments:"
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:150
+msgid "Displays responsive youtube and/or vimeo video"
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:164
+msgid "Responsive Video"
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:182
+msgid "Video URL"
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:308
+msgid "Displays Flickr feed."
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:341
+msgid "Flickr Id"
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:346
+msgid "Show"
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:449
+msgid "Shows 250x250 ad."
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:492 ../assets/php/custom-widgets.php:649
+#: ../assets/php/custom-widgets.php:682
+msgid "Image URL"
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:587
+msgid "Shows 125x125 ads."
+msgstr ""
+
+#: ../assets/php/custom-widgets.php:636 ../assets/php/custom-widgets.php:669
+msgid "Ad Spot "
+msgstr ""
+
+#: ../assets/php/filtered-portfolio.php:38
+#: ../assets/php/iso-filtered-portfolio.php:38
+msgid "All"
+msgstr ""
+
+#: ../assets/php/install-plugins.php:89
+msgid "Install Prem. Plugins"
+msgstr ""
+
+#: ../assets/php/install-plugins.php:91
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../assets/php/install-plugins.php:104
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:20 ../assets/php/meta-boxes.php:53
+msgid "Use Default"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:21 ../assets/php/meta-boxes.php:54
+msgid "None"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:48
+msgid "Full Width"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:49
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:50
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:61
+msgid "Section Customize Options"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:67
+msgid "Show on Front Page?"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:68
+msgid "Uncheck this box if do not want this section shown on front page"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:74 ../assets/php/meta-boxes.php:417
+msgid "Background Image"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:75
+msgid "Choose a background image for this section."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:88 ../assets/php/meta-boxes.php:480
+msgid "Background color"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:89 ../assets/php/meta-boxes.php:481
+msgid ""
+"You can set a custom background color using the color picker, or enter a hex "
+"value (i.e #ff0000)."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:95 ../assets/php/meta-boxes.php:1096
+#: ../assets/php/meta-boxes.php:1349 ../assets/php/meta-boxes.php:1524
+#: ../assets/php/meta-boxes.php:1815
+msgid "Attach Parallax Section"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:96 ../assets/php/meta-boxes.php:1097
+#: ../assets/php/meta-boxes.php:1525 ../assets/php/meta-boxes.php:1816
+msgid ""
+"You can attach a previously created parallax section to show below this on "
+"the main page."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:103 ../assets/php/meta-boxes.php:501
+msgid "Title Bar Heading Color"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:104 ../assets/php/meta-boxes.php:502
+msgid ""
+"This is for the font color for the heading tag used in the title bar short "
+"code. Use color picker or enter a hex value (i.e #ff0000)."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:110 ../assets/php/meta-boxes.php:508
+msgid "Title Bar Sub Heading Color"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:111 ../assets/php/meta-boxes.php:509
+msgid ""
+"This is for the font color for the sub-heading tag used in the title bar "
+"short code. Use color picker or enter a hex value (i.e #ff0000)."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:117 ../assets/php/meta-boxes.php:515
+msgid "Heading Tag Color"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:118 ../assets/php/meta-boxes.php:516
+msgid ""
+"Sets custom color to all h1-h6 tags in this section. Use color picker or "
+"enter a hex value (i.e #ff0000)."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:124 ../assets/php/meta-boxes.php:522
+msgid "Font Color"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:125 ../assets/php/meta-boxes.php:523
+msgid ""
+"Sets custom color to all body font in this section. Use color picker or "
+"enter a hex value (i.e #ff0000)."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:131 ../assets/php/meta-boxes.php:529
+msgid "Link Color"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:132 ../assets/php/meta-boxes.php:530
+msgid ""
+"Sets custom color to all links for this section. Use color picker or enter a "
+"hex value (i.e #ff0000)."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:138 ../assets/php/meta-boxes.php:536
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:139 ../assets/php/meta-boxes.php:537
+msgid ""
+"Sets custom color to all links hover state for this section. Use color "
+"picker or enter a hex value (i.e #ff0000)."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:369
+msgid "Parallax Customize Options"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:375
+msgid "Enable Video BG?"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:376
+msgid "Check this box to enable video bg option"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:382
+msgid "WebM Video"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:383
+msgid "Enter URL to WebM video, you should enter MP4 as well below."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:389
+msgid "MP4 Video"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:390
+msgid "Enter URL to MP4 video"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:396
+msgid "OGV Video"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:397
+msgid "Enter URL to OGV video"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:403
+msgid "Poster Image"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:404
+msgid ""
+"Add poster image which is displayed before load and non supported browsers. "
+"Demo theme uses 1799 x 970"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:418
+msgid "Choose a background image for this section. Demo theme uses 1799 x 970"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:431
+msgid "Background Repeat Options"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:432
+msgid "Choose your background options. Default is repeating background"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:443
+msgid "Parallax Speed"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:444
+msgid ""
+"Use the drop down to delect a speed for how much image moves in parallax "
+"section. Default 0.3"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:473
+msgid "Parallax Section Size"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:474
+msgid ""
+"Change the height(pixel or percent) of the parallax section. Default 500px"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:487
+msgid "Color Overlay"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:488
+msgid ""
+"You can set a custom color overlay using the color picker, or enter a hex "
+"value (i.e #ff0000)."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:494
+msgid "Color Overlay Opacity"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:495
+msgid ""
+"Set color overlay opacity, this allows to see through to background. Enter "
+"1-100"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:791
+msgid "Member Social Info/Extras"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:798
+msgid "This links the member's image"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:804
+msgid "Link Window Option"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:805
+msgid "Choose new window or default"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:815
+msgid "Twitter Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:816
+msgid "Add Twitter Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:822
+msgid "Facebook Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:823
+msgid "Add Facebook Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:829
+msgid "Google Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:830
+msgid "Add Google Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:836
+msgid "Flickr Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:837
+msgid "Add Flickr Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:843
+msgid "LinkedIn Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:844
+msgid "Add LinkedIn Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:850
+msgid "Pinterest Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:851
+msgid "Add Pinterest Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:857
+msgid "Dribbble Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:858
+msgid "Add Dribbble Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:864
+msgid "DeviantArt Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:865
+msgid "Add DeviantArt Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:871
+msgid "Youtube Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:872
+msgid "Add Youtube Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:878
+msgid "Vimeo Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:879
+msgid "Add Vimeo Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:885
+msgid "Instagram Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:886
+msgid "Add Instagram Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:892
+msgid "Email Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:893
+msgid "Add Email Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:899
+msgid "Soundcloud Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:900
+msgid "Add Soundcloud Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:906
+msgid "Behance Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:907
+msgid "Add Behance Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:913
+msgid "Ustream Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:914
+msgid "Add Ustream Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:920
+msgid "RSS Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:921
+msgid "Add RSS Link."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1059
+msgid "Post Options"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1065
+msgid "Featured post type"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1066
+msgid "You can select to have a slider or video post."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1070 ../assets/php/meta-boxes.php:1499
+#: ../assets/php/meta-boxes.php:1790
+msgid "Image"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1070 ../assets/php/meta-boxes.php:1499
+#: ../assets/php/meta-boxes.php:1790
+msgid "Video"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1073
+msgid "Slider Images"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1074
+msgid ""
+"If you would like to add more images for a slider, you can add them here."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1088 ../assets/php/meta-boxes.php:1517
+#: ../assets/php/meta-boxes.php:1808
+msgid "Add a Video Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1089 ../assets/php/meta-boxes.php:1518
+#: ../assets/php/meta-boxes.php:1809
+msgid "You can add a Youtube or Vimeo URL here."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1104 ../assets/php/meta-boxes.php:1357
+#: ../assets/php/meta-boxes.php:1532 ../assets/php/meta-boxes.php:1823
+msgid "Attach Page Section"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1105 ../assets/php/meta-boxes.php:1533
+#: ../assets/php/meta-boxes.php:1824
+msgid ""
+"You can attach a previously created page section to show below this on the "
+"main page."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1113 ../assets/php/meta-boxes.php:1366
+#: ../assets/php/meta-boxes.php:1540 ../assets/php/meta-boxes.php:1831
+msgid "Available Sidebars"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1114 ../assets/php/meta-boxes.php:1367
+#: ../assets/php/meta-boxes.php:1541 ../assets/php/meta-boxes.php:1832
+msgid "You can set a different sidebar here."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1121 ../assets/php/meta-boxes.php:1548
+#: ../assets/php/meta-boxes.php:1839
+msgid "Page Template"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1122 ../assets/php/meta-boxes.php:1549
+#: ../assets/php/meta-boxes.php:1840
+msgid "Page layout choices"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1343
+msgid "Extra Page Options"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1350
+msgid ""
+"Attach a parallax section to the this page. Default uses what you set in "
+"themeoptions."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1358
+msgid ""
+"Attach a page section to the this page. Default uses what you set in "
+"themeoptions."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1488
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1494
+msgid "Portfolio Type"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1495 ../assets/php/meta-boxes.php:1786
+msgid "Here you can select if this is a video or image."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1502 ../assets/php/meta-boxes.php:1793
+msgid "PrettyPhoto Gallery"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1503 ../assets/php/meta-boxes.php:1794
+msgid ""
+"If you would like to add more images to PrettyPhoto popup, you can add them "
+"here."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1556 ../assets/php/meta-boxes.php:1847
+msgid "External Link"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1557 ../assets/php/meta-boxes.php:1848
+msgid "You can add a external link here."
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1779
+msgid "Works Options"
+msgstr ""
+
+#: ../assets/php/meta-boxes.php:1785
+msgid "Project Type"
+msgstr ""
+
+#: ../assets/php/post-types.php:16 ../assets/php/post-types.php:17
+msgid "Page Sections"
+msgstr ""
+
+#: ../assets/php/post-types.php:18 ../assets/php/post-types.php:19
+msgid "Add New Section"
+msgstr ""
+
+#: ../assets/php/post-types.php:20
+msgid "Edit section"
+msgstr ""
+
+#: ../assets/php/post-types.php:21
+msgid "New section"
+msgstr ""
+
+#: ../assets/php/post-types.php:22
+msgid "View section"
+msgstr ""
+
+#: ../assets/php/post-types.php:23
+msgid "Search sections"
+msgstr ""
+
+#: ../assets/php/post-types.php:24
+msgid "No sections found"
+msgstr ""
+
+#: ../assets/php/post-types.php:25
+msgid "No sections found in Trash"
+msgstr ""
+
+#: ../assets/php/post-types.php:51 ../assets/php/post-types.php:52
+msgid "Parallax Sections"
+msgstr ""
+
+#: ../assets/php/post-types.php:53 ../assets/php/post-types.php:54
+msgid "Add New Parallax"
+msgstr ""
+
+#: ../assets/php/post-types.php:55
+msgid "Edit parallax"
+msgstr ""
+
+#: ../assets/php/post-types.php:56
+msgid "New parallax"
+msgstr ""
+
+#: ../assets/php/post-types.php:57
+msgid "View parallax"
+msgstr ""
+
+#: ../assets/php/post-types.php:58
+msgid "Search parallax"
+msgstr ""
+
+#: ../assets/php/post-types.php:59
+msgid "No parallax found"
+msgstr ""
+
+#: ../assets/php/post-types.php:60
+msgid "No parallax found in Trash"
+msgstr ""
+
+#: ../assets/php/post-types.php:86 ../assets/php/post-types.php:87
+msgid "Recent Works"
+msgstr ""
+
+#: ../assets/php/post-types.php:88 ../assets/php/post-types.php:89
+msgid "Add Recent Works"
+msgstr ""
+
+#: ../assets/php/post-types.php:90
+msgid "Edit Recent Works"
+msgstr ""
+
+#: ../assets/php/post-types.php:91
+msgid "New Recent Works"
+msgstr ""
+
+#: ../assets/php/post-types.php:92
+msgid "View Recent Works"
+msgstr ""
+
+#: ../assets/php/post-types.php:93
+msgid "Search Recent Works"
+msgstr ""
+
+#: ../assets/php/post-types.php:94
+msgid "No Recent Works found"
+msgstr ""
+
+#: ../assets/php/post-types.php:95
+msgid "No Recent Works found in Trash"
+msgstr ""
+
+#: ../assets/php/post-types.php:139 ../assets/php/post-types.php:140
+msgid "Add Member"
+msgstr ""
+
+#: ../assets/php/post-types.php:141
+msgid "Edit Member"
+msgstr ""
+
+#: ../assets/php/post-types.php:142
+msgid "New Member"
+msgstr ""
+
+#: ../assets/php/post-types.php:143
+msgid "View Member"
+msgstr ""
+
+#: ../assets/php/post-types.php:144
+msgid "Search Member"
+msgstr ""
+
+#: ../assets/php/post-types.php:145
+msgid "No Members found"
+msgstr ""
+
+#: ../assets/php/post-types.php:146
+msgid "No Members found in Trash"
+msgstr ""
+
+#: ../assets/php/post-types.php:190 ../assets/php/post-types.php:191
+msgid "Add Portfolio"
+msgstr ""
+
+#: ../assets/php/post-types.php:192
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../assets/php/post-types.php:193
+msgid "New Portfolio"
+msgstr ""
+
+#: ../assets/php/post-types.php:194
+msgid "View Portfolio"
+msgstr ""
+
+#: ../assets/php/post-types.php:195
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../assets/php/post-types.php:196
+msgid "No Portfolio found"
+msgstr ""
+
+#: ../assets/php/post-types.php:197
+msgid "No Portfolio found in Trash"
+msgstr ""
+
+#: ../assets/php/post-types.php:226 ../assets/php/post-types.php:227
+msgid "Filter"
+msgstr ""
+
+#: ../assets/php/shortcodes.php:1065 ../assets/php/shortcodes.php:1066
+msgid "This field is required."
+msgstr ""
+
+#: ../assets/php/shortcodes.php:1067
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ../assets/php/shortcodes.php:1068
+msgid "Please enter a message"
+msgstr ""
